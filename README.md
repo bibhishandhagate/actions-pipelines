@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # notekeeper
 
 A tiny notes CLI. Notes are stored in a JSON file next to the
@@ -21,4 +21,4 @@ python3 -m pytest
 ```
 =======
 # actions-journey
->>>>>>> 2a594fb (Start actions-journey)
+
