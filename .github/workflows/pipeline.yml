@@ -1,0 +1,5 @@
+name: pipeline
+on: push
+jobs:
+  checks:
+    uses: ./.github/workflows/checks.yml
